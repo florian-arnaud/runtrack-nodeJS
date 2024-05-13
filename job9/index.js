@@ -1,3 +1,4 @@
+
 /*
 Écrire un programme qui modifie le contenu du fichier data.txt. Remplacez le
 contenu existant par : “Je manipule les fichiers avec un module node !”.
