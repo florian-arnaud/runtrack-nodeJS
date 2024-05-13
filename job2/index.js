@@ -1,6 +1,6 @@
-/* 
-Créez une variable nommée “count” et attribuez-lui la valeur 3. Utilisez un
-seul console.log() pour afficher dans le terminal : “La valeur de count est : 3”.
+/*
+Créez deux variables, “a” et “b”, ayant respectivement pour valeurs 8 et 12.
+Additionnez ces deux variables et affichez le résultat dans le terminal.
 Exécutez votre script pour vous assurer que tout fonctionne comme prévu.
 */
 let a = 8;
